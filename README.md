@@ -1,1 +1,1 @@
-# tictactoe_javascript
+# rockpaperscissors_javascript
